@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 
-public class Main {
+public class BOJ_1421 {
 	
 	public static void main(String[] args) {
 		//N개
