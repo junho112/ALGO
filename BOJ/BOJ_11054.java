@@ -3,7 +3,7 @@ package algo;
 import java.util.Scanner;
 
 
-public class Main {
+public class BOJ_11054 {
 	
 	public static void main(String[] args) {
 		
