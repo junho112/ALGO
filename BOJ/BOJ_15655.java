@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 
-public class Main {
+public class BOJ_15655 {
 	static int arr[];
 	static int N;
 	static int M;
