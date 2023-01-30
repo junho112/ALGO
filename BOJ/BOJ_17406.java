@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 
-public class Main {
+public class BOJ_17406 {
 	static int arr[][];
 	static int rotate[][];
 	static boolean visit[];
