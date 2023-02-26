@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BOJ_1541_연산자끼워넣기{
+public class BOJ_1541_잃어버린괄호{
 	public static void main(String[] agrs) {
 		Scanner sc = new Scanner(System.in);
 		int sum = Integer.MAX_VALUE;
