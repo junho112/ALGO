@@ -76,7 +76,7 @@ public class Main {
 				int nx = cx+dx[i];
 				if(nx>=0&&ny>=0&&ny<N&&nx<M&&arr[ny][nx]!='*') {
 					int nm = cm;
-					if(cd!=i&&cx!=-1) {
+					if(cd!=i) {
 						nm++;
 					}
 					if(visit[ny][nx]==0) {
