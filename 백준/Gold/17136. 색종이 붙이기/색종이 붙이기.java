@@ -44,6 +44,9 @@ public class Main {
 			dfs(y+1,0,cnt,paper);
 			return;
 		}
+		if(cnt>=min) {
+			return;
+		}
 		if(arr[y][x]==1) {
 			for(int p=1;p<=5;p++) {
 				if(y+p>10||x+p>10) continue;
